@@ -1,0 +1,11 @@
+# WorkerPoolDynamicWorkerTypesResource
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**worker_types** | [**list[DynamicWorkerType]**](DynamicWorkerType.md) |  | [optional] 
+**id** | **str** |  | [optional] 
+**links** | **dict(str, str)** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
